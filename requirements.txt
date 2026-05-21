@@ -1,0 +1,21 @@
+torch>=2.1.0
+torchvision>=0.16.0
+numpy>=1.24.0
+h5py
+hdf5plugin
+scikit-learn
+imageio[ffmpeg]
+huggingface_hub
+einops
+hydra-core
+omegaconf
+
+# World model backbone (install from git for latest)
+# pip install "stable-worldmodel[train,env] @ git+https://github.com/galilai-group/stable-worldmodel.git"
+# pip install "stable-pretraining @ git+https://github.com/galilai-group/stable-pretraining.git"
+
+# Physics / rendering
+mujoco
+dm-control
+pygame
+pymunk
