@@ -87,7 +87,7 @@ Datasets and pretrained LeWM checkpoints: [HuggingFace collection](https://huggi
 ## Quick start
 
 Open `demo.ipynb`. Set `ENV`, run all cells.
-As render seems to change base on GPU, the h5 used in the experiments are shared in Google Drive links in the demo.
+As render seems to change base on GPU, the h5 used in the experiments on L4 colab are shared in Google Drive links in the demo.
 
 ## Reproduce main results
 
