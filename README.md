@@ -45,9 +45,9 @@ A broader sweep over test-time planners confirms that GC-IDM's advantage is not 
 ### Real-time (wall-clock)
 
 <p align="center">
-<img width="380" src="https://github.com/user-attachments/assets/643a72b5-502e-4a32-a743-fb35ff306756" />  <img width="380" src="https://github.com/user-attachments/assets/a456e7cc-8059-4643-809a-c4974594c764" /> 
+<img width="380" src="https://github.com/user-attachments/assets/03fb98ca-ab15-4f51-9350-2b6df451c819" />  <img width="380" src="https://github.com/user-attachments/assets/6bec0bb1-f4d8-4db4-b42f-59533063318e" /> 
 </p><p align="center"> 
-<img width="380" src="https://github.com/user-attachments/assets/170a099b-35ab-442b-8598-ca99b9bdd2ab" />   <img width="380" src="https://github.com/user-attachments/assets/9ce50c86-4423-4ba2-9292-3d4e59bbc4c9" />  
+<img width="380" src="https://github.com/user-attachments/assets/41b7202a-47e3-49e0-841a-fa92ce1abfa6" />   <img width="380" src="https://github.com/user-attachments/assets/f5b9cd9c-8878-44e4-9d43-a7e9a3d91de2" />  
 </p>
 
 Both methods run on the same GPU, same episode, same start and goal. Each frame of the GIF corresponds to a fixed interval of wall-clock time.
@@ -55,9 +55,9 @@ Both methods run on the same GPU, same episode, same start and goal. Each frame 
 ### Environment steps
 
 <p align="center">
-<img width="380" src="https://github.com/user-attachments/assets/fc2ad9ac-af6c-4743-8032-e139a88f22c9" /> <img width="380" src="https://github.com/user-attachments/assets/1b16740e-094a-45fe-bd89-0f3a24b8243a" /> 
+<img width="380" src="https://github.com/user-attachments/assets/bbbdacf0-da19-4c7c-810f-53c739c37590" /> <img width="380" src="https://github.com/user-attachments/assets/10864428-8275-4bab-b452-2416d2f6ff5f" /> 
 </p><p align="center">     
-<img width="380" src="https://github.com/user-attachments/assets/76b988d4-d08e-481f-9828-404e5ed97038" /> <img width="380" src="https://github.com/user-attachments/assets/46b7a45d-60f6-4e76-a1f8-32183f06fdef" />
+<img width="380" src="https://github.com/user-attachments/assets/7a7f2277-1b47-4391-89ad-5290021a208f" /> <img width="380" src="https://github.com/user-attachments/assets/ea94733e-c176-44f2-84c7-0a98525e2028" />
 </p>
 
 Both methods take the same number of environment steps. This isolates goal-reaching ability from compute cost.
